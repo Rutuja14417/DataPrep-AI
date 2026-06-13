@@ -16,7 +16,8 @@ Built using Streamlit and powered by advanced reasoning architecture, the agent 
 
 ## 🔧 Installation & Local Setup
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/DataPrep-AI.git](https://github.com/YOUR_USERNAME/DataPrep-AI.git)
-   cd DataPrep-AI
+1.1. **Clone the repository:**
+```bash
+git clone https://github.com/Rutuja14417/DataPrep-AI.git
+ cd DataPrep-AI
+ ```
